@@ -1,0 +1,65 @@
+.credLogoSmall {
+   background: url('icon_cred_16x16.png') no-repeat center left;
+   padding-left: 18px;
+   font-family: Arial, helvetica, sans-serif;
+   font-style: normal;
+   margin-left: 5px;
+   cursor: pointer;
+}
+
+.credLogoMedium {
+   background: url('icon_cred_24x24.png') no-repeat;
+   padding: 3px;
+   padding-left: 26px;
+   font-family: Arial, helvetica, sans-serif;
+   font-style: normal;
+   margin-left: 5px;
+   cursor: pointer;
+   font-size: 1.2em;
+}
+
+.credLogoLarge {
+   background: url('icon_cred_32x32.png') no-repeat;
+   padding: 7px;
+   padding-left: 34px;
+   font-family: Arial, helvetica, sans-serif;
+   font-style: normal;
+   margin-left: 5px;
+   cursor: pointer;
+	font-size: 1.5em;
+}
+
+.credRedeem {
+   position: absolute;
+   text-align: left;
+   background: white;
+   padding: 5px;
+   width: 240px;
+   font-family: arial, Helvetica, sans-serif;
+   font-size: 11px;
+   color: black;
+}
+
+.credRedeem fieldset {
+   border: 1px solid #0492E4;
+   -moz-border-radius: 6px;
+   -webkit-border-radius: 6px;
+   border-radius: 6px;
+   padding: 10px;
+   line-height: 1.6;
+}
+
+.credRedeem legend {
+   color: #0492E4;
+   font-weight: bold;
+}
+
+.credRedeem input[type="button"] {
+   background: #0492E4;
+   color: white;
+   -moz-border-radius: 6px;
+   -webkit-border-radius: 6px;
+   border-radius: 6px;
+   border: 1px solid #0492E4;
+}
+
